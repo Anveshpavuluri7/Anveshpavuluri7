@@ -10,8 +10,6 @@
 
 <strong>Welcome to my GitHub!</strong>
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" />
-
 </div>
 
 ---
@@ -138,6 +136,6 @@ I'm Anvesh Pavuluri, an AI/ML Engineer with 2 years of experience building intel
 
   <br><br>
 
-  <em>⭐ "The best way to predict the future is to build it with AI." ⭐</em>
+  <em>⭐ "From ideas to intelligent products — building AI that people actually use." ⭐</em>
 
 </div>
